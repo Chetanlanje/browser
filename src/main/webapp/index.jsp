@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>hello redmi x12!</h2>
+<h2>hello redmi nokia,samsung!</h2>
 </body>
 </html>
